@@ -1,6 +1,4 @@
--  Hi, I’m @Aum-Mangal
 
-- I am new to coding and opensource so just exploring
   
 
 <!---
